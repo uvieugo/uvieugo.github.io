@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+  margin: 50px auto;
+  background-color: #111;
+}
+
+.grid{
+  width: 48px;
+  height: 48px;
+  margin: 1px;
+  background-color: #fccc;
+  float: left;
+
+}
+button.clear{
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100px;
+  height: 30px;
+  margin: 0 auto;
+}
